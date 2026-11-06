@@ -1,0 +1,21 @@
+{
+  "name": "denario",
+  "version": "1.0.0",
+  "description": "A program to manange finances",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/app.ts"
+  },
+  "author": "Gabriel Faria Zulianlli",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.4.0",
+    "typescript": "^7.0.2"
+  }
+}
